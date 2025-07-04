@@ -35,7 +35,7 @@ A static website built from scratch for a creative brand idea.
 
 ## 📫 Let's Connect
 - 🌐 [LinkedIn](https://www.linkedin.com/in/javeria-jamil-97189330a)
-- ✉️ jaweria.email@example.com (replace this)
+- ✉️ jaweria.binte.jamil@gmail.com
 - 🔍 Always learning something new in the world of data!
 
 ---
