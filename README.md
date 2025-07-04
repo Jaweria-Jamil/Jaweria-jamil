@@ -14,7 +14,7 @@
 
 ## 🚀 Projects
 
-### 🕸️ Web Scraper in Python
+### 1.) 🕸️ Web Scraper in Python
 A custom web scraper built using **BeautifulSoup** and **requests**.  
 Extracts live data from websites for analysis.  
 
@@ -53,7 +53,7 @@ from datetime import datetime
 
 ---
 
-### 🌐 Resinera Website
+### 2). 🌐 Resinera Website
 A static website built from scratch for a creative brand idea.  
 🛠️ Technologies: HTML, CSS  
 
