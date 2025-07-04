@@ -1,5 +1,7 @@
-<h1 align="center" style="color:#e63946; font-family:'Comic Sans MS', cursive; font-size: 3em;">Hello! I'm Anurag</h1>
-<p align="center" style="color:#3f51b5; font-style:italic;">I do open source :)</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hello!+I'm+Anurag;I+do+open+source+%3A)" alt="Typing SVG" />
+</p>
+
 
 
 
