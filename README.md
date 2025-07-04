@@ -71,5 +71,6 @@ A static website built from scratch for a creative brand idea.
 - 🔍 Always learning something new in the world of data!
 
 ---
+[![Status](https://img.shields.io/badge/Status-Available-blue?style=for-the-badge&logo=github)](https://github.com/jaweriajamil)
 
 > “ Data is the new oil, but refined data is pure gold.” ✨
