@@ -1,4 +1,7 @@
-# 👋 Hi there! I'm Jaweria Jamil
+# <h1 align="center" style="color:#6a5acd;">✨ Hello! I am Jaweria Jamil ✨</h1>
+
+<h3 align="center" style="color:#4682b4;">I do open source 🙂</h3>
+
 
 🎓 Aspiring **Data Scientist** with a passion for data cleaning, automation, and real-world solutions.  
 📊 Skilled in **Python**, **Excel**, and **Data Analysis** — turning raw data into impactful insights.
