@@ -71,6 +71,12 @@ A static website built from scratch for a creative brand idea.
 - 🔍 Always learning something new in the world of data!
 
 ---
-[![Status](https://img.shields.io/badge/Status-Available-blue?style=for-the-badge&logo=github)](https://github.com/jaweriajamil)
+## 🚀 My Skill Badges
+
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
+![Excel](https://img.shields.io/badge/Excel-Data_Cleaning-green?style=for-the-badge&logo=microsoft-excel)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-BeautifulSoup-red?style=for-the-badge&logo=code)
+![Status](https://img.shields.io/badge/Status-Learning_Data_Science-blue?style=for-the-badge&logo=python)
+
 
 > “ Data is the new oil, but refined data is pure gold.” ✨
