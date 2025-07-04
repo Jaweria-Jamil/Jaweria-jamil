@@ -20,7 +20,7 @@ Extracts live data from websites for analysis.
 
 ## 🧠 Useful Functions
 
-### 📦 Loading Libraries
+#### 📦 Loading Libraries
 
 ```python
 import os
@@ -31,14 +31,14 @@ from tkinter import messagebox
 from datetime import datetime
 ```
 
-### 🌐 Web Scraping
+#### 🌐 Web Scraping
 
 ```python
 import requests
 from bs4 import BeautifulSoup
 ```
 
-### 🖥️ GUI Libraries (Desktop App)
+#### 🖥️ GUI Libraries (Desktop App)
 
 ```python
 import tkinter as tk
