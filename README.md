@@ -1,6 +1,6 @@
-# <h1 align="center" style="color:#6a5acd;">✨ Hello! I am Jaweria Jamil ✨</h1>
+<h1 align="center" style="color:#e63946; font-family:'Comic Sans MS', cursive; font-size: 3em;">Hello! I'm Anurag</h1>
+<p align="center" style="color:#3f51b5; font-style:italic;">I do open source :)</p>
 
-<h3 align="center" style="color:#4682b4;">I do open source 🙂</h3>
 
 
 🎓 Aspiring **Data Scientist** with a passion for data cleaning, automation, and real-world solutions.  
