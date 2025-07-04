@@ -12,6 +12,11 @@
 
 ---
 
+🛠️useful functions
+<pre> ```python import pandas as pd import numpy as np import matplotlib.pyplot as plt import seaborn as sns import requests from bs4 import BeautifulSoup %matplotlib inline %load_ext autoreload %autoreload 2 ``` </pre>
+
+
+
 ## 🚀 Projects
 
 ### 🕸️ Web Scraper in Python
