@@ -12,30 +12,44 @@
 
 ---
 
-## 🛠️ Loading Useful Libraries
-
-```python
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-import requests
-from bs4 import BeautifulSoup
-
-%matplotlib inline
-%load_ext autoreload
-%autoreload 2
-```
-
-
-
-
 ## 🚀 Projects
 
 ### 🕸️ Web Scraper in Python
 A custom web scraper built using **BeautifulSoup** and **requests**.  
 Extracts live data from websites for analysis.  
 
+## 🧠 Useful Functions
+
+### 📦 Loading Libraries
+
+```python
+import os
+import requests
+from bs4 import BeautifulSoup
+import tkinter as tk
+from tkinter import messagebox
+from datetime import datetime
+```
+
+### 🌐 Web Scraping
+
+```python
+import requests
+from bs4 import BeautifulSoup
+```
+
+### 🖥️ GUI Libraries (Desktop App)
+
+```python
+import tkinter as tk
+from tkinter import messagebox
+```
+
+### ⏰ Date and Time Utilities
+
+```python
+from datetime import datetime
+```
 
 ---
 
